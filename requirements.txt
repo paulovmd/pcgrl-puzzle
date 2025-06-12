@@ -1,0 +1,11 @@
+pip
+pip
+pygame
+matplotlib
+tqdm
+pandas
+gym
+ipython
+opencv-python
+imageio
+pandas
